@@ -3,7 +3,7 @@ from telethon import TelegramClient, events, Button
 import asyncio
 
 # Replace with your BotFather token
-API_ID = 26117875  # From config.json main account
+API_ID =   # From config.json main account
 API_HASH = ''  # From config.json main account
 BOT_TOKEN = ''
 
