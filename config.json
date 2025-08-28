@@ -1,0 +1,26 @@
+{
+  "main": {
+    "api_id": "26117875",
+    "api_hash": "e121705b6821eb0287a0a2d264fd6f56",
+    "phone": "+12172311639"
+  },
+  "assistants": [
+    {
+      "api_id": "28554264",
+      "api_hash": "7c1903e335a3656ea12ee4998f1db776",
+      "bot_token": "7312540404:AAHbOBVqQNBFmBeCYtlTJIvxB8kGGJYHx_Y",
+      "bot_id": 7312540404,
+      "group_id": null,
+      "phone": "+4915218231551"
+    },
+    {
+      "api_id": "26790179",
+      "api_hash": "3b13e0b9cb33bf47a4998a55b8f8d907",
+      "bot_token": "8323205993:AAFZX655MNtgtz2yKj7T2gKHFbnUY38uKDQ",
+      "bot_id": 8323205993,
+      "group_id": null,
+      "phone": "+4915218231552"
+    }
+  ],
+  "allowed_users": []
+}
