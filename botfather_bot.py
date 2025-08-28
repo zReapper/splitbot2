@@ -4,8 +4,8 @@ import asyncio
 
 # Replace with your BotFather token
 API_ID = 26117875  # From config.json main account
-API_HASH = 'e121705b6821eb0287a0a2d264fd6f56'  # From config.json main account
-BOT_TOKEN = '8401265217:AAErGXj2yU45162YXHYMPRPSMm2zxLQWnvM'
+API_HASH = ''  # From config.json main account
+BOT_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
